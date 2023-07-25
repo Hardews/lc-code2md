@@ -1,7 +1,22 @@
 # lc-code2md
 将力扣美站的代码链接转为力扣中站 md 支持的格式。
 
-
+## 目录结构
+```text
+|-------- lc-code2md
+  |----- answer
+  |----- config
+    |----- config.go
+    |----- congig.txt
+    |----- replace.json
+  |----- file
+  |----- logic
+    |----- replace.go
+    |----- request
+      |----- graph.go
+  |----- main.go
+  |----- README.md
+```
 
 ## 🚀快速开始
 
