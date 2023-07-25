@@ -12,8 +12,8 @@
   |----- file
   |----- logic
     |----- replace.go
-    |----- request
-      |----- graph.go
+  |----- request
+    |----- graph.go
   |----- main.go
   |----- README.md
 ```
